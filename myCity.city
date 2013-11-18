@@ -1,0 +1,13 @@
+# Give your cityscape a name
+Test
+
+# Number of models specified
+1
+
+# List of models and transformations for each:
+# First entry is the name of the model (including the path, using the directory
+# this file is in as the reference)
+# The next set of entries represent the transformation:
+# Scale in x,y,z, Rotation around x-axis, y-axis, z-axis, Translation from origin i.e.:
+#  PathTo/Building.model Sx Sy Sz Rx Ry Rz Ox Oy Oz Tx Ty Tz
+Models/StAndrewAndWesleyChurch/StAndrewAndWesleyChurch.model	5	5	5	0.00	0.00	0.00	0.000	20.000	0.000	0.00	1975.00	0.00

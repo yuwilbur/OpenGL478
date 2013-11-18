@@ -1,0 +1,93 @@
+# Give your cityscape a name
+Gaya
+
+# Number of models specified
+81
+
+# List of models and transformations for each:
+# First entry is the name of the model (including the path, using the directory
+# this file is in as the reference)
+# The next set of entries represent the transformation:
+# Scale in x,y,z, Rotation around x-axis, y-axis, z-axis, Translation from origin i.e.:
+#  PathTo/Building.model Sx Sy Sz Rx Ry Rz Ox Oy Oz Tx Ty Tz
+Models/StAndrewAndWesleyChurch/StAndrewAndWesleyChurch.model	5	5	5	0.00	0.00	0.00	0.000	20.000	0.000	0.00	1975.00	0.00
+Models/AbdulLadhaCentre/AbdulLadhaCentre.model	6	6	6	72.00	11.25	0.00	-9.500	0.000	15.000	367.37	611.85	1846.91
+Models/Barn/Barn.model	5	5	5	72.00	33.75	0.00	0.000	0.000	0.000	1046.19	611.85	1565.73
+Models/BiomedicalResearchCentre/BiomedicalResearchCentre.model	5	5	5	72.00	56.25	0.00	-3.000	0.000	12.000	1565.73	611.85	1046.19
+Models/BuchananTower/BuchananTower.model	5	5	5	72.00	78.75	0.00	-37.245	0.000	0.000	1846.91	611.85	367.37
+Models/CecilGreenParkCoachHouse/CecilGreenParkCoachHouse.model	6	6	6	54.00	15.00	0.00	0.000	0.000	0.492	414.59	1163.81	1547.27
+Models/ChemistryPhysics/ChemistryPhysics.model	3	3	3	-36.00	45.00	0.00	-42.500	-8.499	0.000	1132.68	1163.81	1132.68
+Models/CoalMineralProcessing/CoalMineralProcessing.model	5	5	5	54.00	75.00	0.00	-14.000	0.000	14.000	1547.27	1163.81	414.59
+Models/ContinuingStudies/ContinuingStudies.model	15	15	15	36.00	22.50	0.00	4.210	2.783	-3.785	445.37	1601.85	1075.22
+Models/DavidStrangway/DavidStrangway.model	15	15	15	-54.00	67.50	0.00	17.189	-8.168	1.025	1075.22	1601.85	445.37
+Models/DonaldRix/DonaldRix.model	13	13	13	18.00	45.00	0.00	-5.000	0.000	2.325	432.65	1883.09	432.65
+Models/DorothySomersetStudio/DorothySomersetStudio.model	5	5	5	72.00	-11.25	0.00	3.395	0.000	0.000	-367.37	611.85	1846.91
+Models/EngineeringAnnex/EngineeringAnnex.model	10	10	10	72.00	-33.75	0.00	0.000	0.000	0.000	-1046.19	611.85	1565.73
+Models/ForestSciencesCentre/ForestSciencesCentre.model	10	10	10	72.00	-56.25	0.00	0.220	0.000	-0.125	-1565.73	611.85	1046.19
+Models/FredericLasserre/FredericLasserre.model	12	12	12	72.00	-78.75	0.00	-6.850	0.000	-3.510	-1846.91	611.85	367.37
+Models/GageTower/GageTower.model	35	35	35	54.00	-15.00	0.00	-4.680	0.000	5.746	-414.59	1163.81	1547.27
+Models/Geography/Geography.model	30	30	30	54.00	-45.00	0.00	-0.375	0.500	0.250	-1132.68	1163.81	1132.68
+Models/GeraldMcGavin/GeraldMcGavin.model	13	13	13	54.00	-75.00	0.00	-5.000	0.000	8.000	-1547.27	1163.81	414.59
+Models/Hennings/Hennings.model	10	10	10	36.00	-22.50	0.00	-8.750	0.000	12.500	-445.37	1601.85	1075.22
+Models/Horticulture/Horticulture.model	30	30	30	36.00	-67.50	0.00	0.000	0.000	-1.500	-1075.22	1601.85	445.37
+Models/ICICS/ICICS.model	1	1	1	18.00	-45.00	0.00	0.050	0.000	-0.068	-432.65	1883.09	432.65
+Models/IrvingKBarber/IrvingKBarber.model	10	10	10	-162.00	11.25	0.00	-17.000	-35.000	0.000	-367.37	611.85	-1846.91
+Models/JackBell/JackBell.model	0.2	0.2	0.2	-72.00	33.75	0.00	-59.764	0.000	-34.799	-1046.19	611.85	-1565.73
+Models/KoernerLibrary/KoernerLibrary.model	1.25	1.25	1.25	-72.00	56.25	0.00	0.000	0.025	-34.000	-1565.73	611.85	-1046.19
+Models/LandscapeArchitectureAnnex/LandscapeArchitectureAnnex.model	5	5	5	-72.00	78.75	0.00	0.000	0.000	0.000	-1846.91	611.85	-367.37
+Models/LawAnnexA/LawAnnexA.model	30	30	30	-54.00	15.00	0.00	-0.250	0.000	0.250	-414.59	1163.81	-1547.27
+Models/LibraryProcessingCentre/LibraryProcessingCentre.model	40	40	40	-54.00	45.00	0.00	-5.000	0.000	4.377	-1132.68	1163.81	-1132.68
+Models/LifeSciencesCentre/LifeSciencesCentre.model	10	10	10	-54.00	75.00	0.00	16.000	0.000	32.050	-1547.27	1163.81	-414.59
+Models/MarineDriveCommonsBlock/MarineDriveCommonsBlock.model	8	8	8	-36.00	22.50	0.00	-13.250	0.000	42.250	-445.37	1601.85	-1075.22
+Models/MarineDriveResidences/MarineDriveResidences.model	0.25	0.25	0.25	-36.00	67.50	0.00	-427.500	0.000	-295.000	-1075.22	1601.85	-445.37
+Models/MathAnnex/MathAnnex.model	10	10	10	-18.00	45.00	0.00	-24.115	0.000	10.655	-432.65	1883.09	-432.65
+Models/MHBArtGallery/MHBArtGallery.model	15	15	15	-72.00	-11.25	0.00	-2.250	0.000	0.625	367.37	611.85	-1846.91
+Models/MuseumOfAnthropology/MuseumOfAnthropology.model	4	4	4	-72.00	-33.75	0.00	-37.200	0.000	0.600	1046.19	611.85	-1565.73
+Models/OkanaganHouse/OkanaganHouse.model	7	7	7	-72.00	-56.25	0.00	-10.500	0.000	7.500	1565.73	611.85	-1046.19
+Models/OldBarnCommunityCentre/OldBarnCommunityCentre.model	10	10	10	-72.00	-78.75	0.00	-5.500	0.000	4.400	1846.91	611.85	-367.37
+Models/OldFireHall/OldFireHall.model	5	5	5	-54.00	-15.00	0.00	1.381	0.000	-0.309	414.59	1163.81	-1547.27
+Models/OrchardHouse/OrchardHouse.model	8	8	8	-54.00	-45.00	0.00	-3.100	0.000	-3.500	1132.68	1163.81	-1132.68
+Models/OsbourneCentre/OsbourneCentre.model	2	2	2	-54.00	-75.00	0.00	0.000	0.000	37.000	1547.27	1163.81	-414.59
+Models/Ponderosa/Ponderosa.model	5	5	5	-36.00	-22.50	0.00	-14.500	0.000	-6.500	445.37	1601.85	-1075.22
+Models/PonderosaAnnexF/PonderosaAnnexF.model	10	10	10	-36.00	-67.50	0.00	0.235	0.013	-0.221	1075.22	1601.85	-445.37
+Models/PulpAndPaperCentre/PulpAndPaperCentre.model	20	20	20	-18.00	-45.00	0.00	-4.000	0.000	7.500	432.65	1883.09	-432.65
+Models/PurdyPavilion/PurdyPavilion.model	40	40	40	108.00	11.25	0.00	0.000	0.000	1.000	367.37	-611.85	1846.91
+Models/RegentCollege/RegentCollege.model	10	10	10	108.00	33.75	0.00	0.000	0.000	20.926	1046.19	-611.85	1565.73
+Models/StoreRoadAnnex/StoreRoadAnnex.model	5	5	5	108.00	56.25	0.00	0.680	0.000	-0.220	1565.73	-611.85	1046.19
+Models/StudentRecCentre/StudentRecCentre.model	60	60	60	108.00	78.75	0.00	-0.250	0.000	0.200	1846.91	-611.85	367.37
+Models/SwingSpace/SwingSpace.model	20	20	20	126.00	15.00	0.00	0.000	0.000	1.000	414.59	-1163.81	1547.27
+Models/TecDeMonterry/TecDeMonterry.model	40	40	40	36.00	45.00	0.00	-4.480	-4.120	3.800	1132.68	-1163.81	1132.68
+Models/OsbourneCentre/OsbourneCentre.model	3	3	3	126.00	75.00	0.00	0.000	0.000	37.000	1547.27	-1163.81	414.59
+Models/TechnologyEnterpriseFacility/TechnologyEnterpriseFacility.model	30	30	30	144.00	22.50	0.00	-4.000	0.000	3.250	445.37	-1601.85	1075.22
+Models/Theatre/Theatre.model	10	10	10	144.00	67.50	0.00	-7.906	0.000	11.000	1075.22	-1601.85	445.37
+Models/TriumfHouse/TriumfHouse.model	2	2	2	162.00	45.00	0.00	0.385	0.000	0.787	432.65	-1883.09	432.65
+Models/TsingSao/TsingSao.model	30	30	30	108.00	-11.25	0.00	0.571	0.000	0.512	-367.37	-611.85	1846.91
+Models/WestParkade/WestParkade.model	10	10	10	108.00	-33.75	0.00	-26.000	0.000	-36.000	-1046.19	-611.85	1565.73
+Models/WRobertWymanPlaza/WRobertWymanPlaza.model	1	1	1	108.00	-56.25	0.00	0.000	0.000	0.000	-1565.73	-611.85	1046.19
+Models/1238Robson/1238Robson.model	0.2	0.2	0.2	108.00	-78.75	0.00	-631.890	10.129	631.102	-1846.91	-611.85	367.37
+Models/AERL/AERL.model	10	10	10	126.00	-15.00	0.00	-25.000	0.000	10.000	-414.59	-1163.81	1547.27
+Models/Avila/Avila.model	0.2	0.2	0.2	126.00	-45.00	0.00	-1140.000	0.129	679.250	-1132.68	-1163.81	1132.68
+Models/BCPlace/BCPlace.model	0.75	0.75	0.75	126.00	-75.00	0.00	-377.953	0.000	88.583	-1547.27	-1163.81	414.59
+Models/BeatyBiodiversity/BeatyBiodiversity.model	12	12	12	144.00	-22.50	0.00	-0.050	0.000	0.100	-445.37	-1601.85	1075.22
+Models/BrockHallAnnex/BrockHallAnnex.model	0.2	0.2	0.2	54.00	-67.50	0.00	-467.586	-844.488	0.007	-1075.22	-1601.85	445.37
+Models/CKChoiBuilding/CKChoiBuilding.model	0.2	0.2	0.2	162.00	-45.00	0.00	-326.180	0.000	255.974	-432.65	-1883.09	432.65
+Models/EarthOceanSciences/EarthOceanSciences.model	35	35	35	252.00	11.25	0.00	1.650	0.000	3.100	-367.37	-611.85	-1846.91
+Models/EmpireLandmarkHotel/EmpireLandmarkHotel.model	0.1	0.1	0.1	252.00	33.75	0.00	-2640.040	0.000	-1172.770	-1046.19	-611.85	-1565.73
+Models/FairmontWaterfront/FairmontWaterfront.model	20	20	20	252.00	56.25	0.00	3.000	0.000	-0.043	-1565.73	-611.85	-1046.19
+Models/HebbBuilding/HebbBuilding.model	0.25	0.25	0.25	162.00	78.75	0.00	-884.055	-360.020	0.000	-1846.91	-611.85	-367.37
+Models/ImperialTower/ImperialTower.model	5	5	5	234.00	15.00	0.00	-3.180	0.000	-8.640	-414.59	-1163.81	-1547.27
+Models/Kaiser/Kaiser.model	5	5	5	144.00	45.00	0.00	-7.654	-16.441	0.000	-1132.68	-1163.81	-1132.68
+Models/LongHouses/LongHouses.model	0.5	0.5	0.5	144.00	75.00	0.00	61.875	-318.638	0.533	-1547.27	-1163.81	-414.59
+Models/Macmillan/Macmillan.model	10	10	10	216.00	22.50	0.00	-20.000	0.000	-15.500	-445.37	-1601.85	-1075.22
+Models/MarineBuilding/MarineBuilding.model	150	150	150	216.00	67.50	0.00	-1.100	1.400	1.300	-1075.22	-1601.85	-445.37
+Models/MBAHouse/MBAHouse.model	3.5	3.5	3.5	198.00	45.00	0.00	-34.900	0.000	16.250	-432.65	-1883.09	-432.65
+Models/RoundHouseCC/RoundHouseCC.model	3	3	3	252.00	-11.25	0.00	-39.069	0.000	15.664	367.37	-611.85	-1846.91
+Models/ScienceWorld/ScienceWorld.model	0.1	0.1	0.1	252.00	-33.75	0.00	1032.770	9.831	-748.489	1046.19	-611.85	-1565.73
+Models/ScotiaTower/ScotiaTower.model	50	50	50	252.00	-56.25	0.00	0.700	0.001	1.811	1565.73	-611.85	-1046.19
+Models/StudentUnionBuilding/StudentUnionBuilding.model	10	10	10	252.00	-78.75	0.00	-7.500	0.000	4.000	1846.91	-611.85	-367.37
+Models/Theology/Theology.model	0.5	0.5	0.5	144.00	-15.00	0.00	27.552	-25.671	3.748	414.59	-1163.81	-1547.27
+Models/TotemHumlesome/TotemHumlesome.model	0.2	0.2	0.2	144.00	-45.00	0.00	72.000	-558.000	0.000	1132.68	-1163.81	-1132.68
+Models/TotemNootkaDene/TotemNootkaDene.model	0.25	0.25	0.25	144.00	-75.00	0.00	-99.002	290.697	16.438	1547.27	-1163.81	-414.59
+Models/UBCVillage/UBCVillage.model	0.2	0.2	0.2	216.00	-22.50	0.00	-188.163	101.155	712.381	445.37	-1601.85	-1075.22
+Models/VancouverPublicLibrary/VancouverPublicLibrary.model	0.04	0.04	0.04	216.00	-67.50	0.00	-663.415	0.000	-137.771	1075.22	-1601.85	-445.37
+Models/WayneAndWilliamWhiteEngineeringDesignCentre/WayneAndWilliamWhiteEngineeringDesignCentre.model	10	10	10	198.00	-45.00	0.00	0.000	2.609	-0.975	432.65	-1883.09	-432.65
